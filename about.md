@@ -1,5 +1,5 @@
 ---
-title: About phrohdoh.com
+title: About
 layout: post
 permalink: /about/
 published: true
